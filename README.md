@@ -32,7 +32,9 @@ Pandas: For data manipulation.
 Clone the Repository: git clone [https://github.com/Ram-Kumar-4240/redbus_web_scrape.git]
 Install Requirements:
 Copy code
+'''python 
 pip install -r requirements.txt
+'''
 Scrape Data: Run the Python script for Selenium web scraping to fetch bus route data.
 Upload Data to SQL Database: Store the scraped data in a MySQL database.
 Run Streamlit App:
