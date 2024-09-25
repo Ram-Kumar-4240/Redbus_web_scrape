@@ -46,4 +46,4 @@ Filter Data: Use the app’s intuitive interface to filter bus routes by state, 
 Real-time data updates using APIs.
 Advanced filtering with machine learning models.
 Deployment on a cloud platform for broader accessibility.
-## Credits: Developed by [Your Name].
+## Credits: Developed by [Ram Kumar].
