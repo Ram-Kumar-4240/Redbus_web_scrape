@@ -1,4 +1,6 @@
 # Redbus Data Scraping with Selenium & Streamlit
+![Screenshot 2024-09-25 224237](https://github.com/user-attachments/assets/981de4a0-1eae-4ffd-802c-b7bc253f8ac8)
+
 
 Project Summary: This project automates the extraction of bus route and travel data from the Redbus website using Selenium, and presents the data through an interactive Streamlit web application. The tool allows users to filter bus routes based on various criteria such as state, departure and arrival times, ticket price, star rating, and seat availability, making it a valuable tool for customers, market analysts, and travel agencies.
 ## Key Features:
@@ -43,6 +45,8 @@ Copy code
 ```Python
 streamlit run app.py
 ```
+![Screenshot 2024-09-25 225403](https://github.com/user-attachments/assets/06200782-3f1a-4193-a96c-0d1794f02391)
+
 Filter Data: Use the app’s intuitive interface to filter bus routes by state, price range, seat availability, and more.
 ## Future Enhancements:
 
