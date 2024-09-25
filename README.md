@@ -1,7 +1,6 @@
 # Redbus Data Scraping with Selenium & Streamlit
 
 Project Summary: This project automates the extraction of bus route and travel data from the Redbus website using Selenium, and presents the data through an interactive Streamlit web application. The tool allows users to filter bus routes based on various criteria such as state, departure and arrival times, ticket price, star rating, and seat availability, making it a valuable tool for customers, market analysts, and travel agencies.
-
 ## Key Features:
 
 Web Scraping: Automated data collection from the Redbus website using Selenium.
@@ -30,14 +29,14 @@ SQL/MySQL: For storing and querying scraped data.
 Pandas: For data manipulation.
 ## How to Run the Project:
 
-Clone the Repository: git clone [repository link]
+Clone the Repository: git clone [https://github.com/Ram-Kumar-4240/redbus_web_scrape.git]
 Install Requirements:
 Copy code
 pip install -r requirements.txt
 Scrape Data: Run the Python script for Selenium web scraping to fetch bus route data.
 Upload Data to SQL Database: Store the scraped data in a MySQL database.
 Run Streamlit App:
-arduino
+Arduino
 Copy code
 streamlit run app.py
 Filter Data: Use the app’s intuitive interface to filter bus routes by state, price range, seat availability, and more.
@@ -46,4 +45,4 @@ Filter Data: Use the app’s intuitive interface to filter bus routes by state, 
 Real-time data updates using APIs.
 Advanced filtering with machine learning models.
 Deployment on a cloud platform for broader accessibility.
-## Credits: Developed by [Ram Kumar].
+## Credits: Developed by Ram Kumar.
